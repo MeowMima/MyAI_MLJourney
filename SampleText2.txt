@@ -1,0 +1,3 @@
+We are creating and writing to a new file 
+The file will be a 'text' file 
+It will be formed in the same directory as my current folder

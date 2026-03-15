@@ -1,0 +1,220 @@
+{
+  "regions": [
+    {
+      "name": "Andhra Pradesh",
+      "code": "AP",
+      "type": "State",
+      "pin_code_range": ["500001", "534999"]
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "code": "AR",
+      "type": "State",
+      "pin_code_range": ["790001", "792131"]
+    },
+    {
+      "name": "Assam",
+      "code": "AS",
+      "type": "State",
+      "pin_code_range": ["781001", "788999"]
+    },
+    {
+      "name": "Bihar",
+      "code": "BR",
+      "type": "State",
+      "pin_code_range": ["800001", "854333"]
+    },
+    {
+      "name": "Chhattisgarh",
+      "code": "CG",
+      "type": "State",
+      "pin_code_range": ["490001", "497778"]
+    },
+    {
+      "name": "Goa",
+      "code": "GA",
+      "type": "State",
+      "pin_code_range": ["403001", "403806"]
+    },
+    {
+      "name": "Gujarat",
+      "code": "GJ",
+      "type": "State",
+      "pin_code_range": ["360001", "396999"]
+    },
+    {
+      "name": "Haryana",
+      "code": "HR",
+      "type": "State",
+      "pin_code_range": ["121001", "135133"]
+    },
+    {
+      "name": "Himachal Pradesh",
+      "code": "HP",
+      "type": "State",
+      "pin_code_range": ["171001", "177601"]
+    },
+    {
+      "name": "Jharkhand",
+      "code": "JH",
+      "type": "State",
+      "pin_code_range": ["815001", "834999"]
+    },
+    {
+      "name": "Karnataka",
+      "code": "KA",
+      "type": "State",
+      "pin_code_range": ["560001", "591346"]
+    },
+    {
+      "name": "Kerala",
+      "code": "KL",
+      "type": "State",
+      "pin_code_range": ["670001", "695615"]
+    },
+    {
+      "name": "Madhya Pradesh",
+      "code": "MP",
+      "type": "State",
+      "pin_code_range": ["452001", "493778"]
+    },
+    {
+      "name": "Maharashtra",
+      "code": "MH",
+      "type": "State",
+      "pin_code_range": ["400001", "444999"]
+    },
+    {
+      "name": "Manipur",
+      "code": "MN",
+      "type": "State",
+      "pin_code_range": ["795001", "795159"]
+    },
+    {
+      "name": "Meghalaya",
+      "code": "ML",
+      "type": "State",
+      "pin_code_range": ["793001", "794115"]
+    },
+    {
+      "name": "Mizoram",
+      "code": "MZ",
+      "type": "State",
+      "pin_code_range": ["796001", "796901"]
+    },
+    {
+      "name": "Nagaland",
+      "code": "NL",
+      "type": "State",
+      "pin_code_range": ["797001", "798627"]
+    },
+    {
+      "name": "Odisha",
+      "code": "OD",
+      "type": "State",
+      "pin_code_range": ["751001", "769999"]
+    },
+    {
+      "name": "Punjab",
+      "code": "PB",
+      "type": "State",
+      "pin_code_range": ["140001", "160055"]
+    },
+    {
+      "name": "Rajasthan",
+      "code": "RJ",
+      "type": "State",
+      "pin_code_range": ["302001", "345001"]
+    },
+    {
+      "name": "Sikkim",
+      "code": "SK",
+      "type": "State",
+      "pin_code_range": ["737101", "737139"]
+    },
+    {
+      "name": "Tamil Nadu",
+      "code": "TN",
+      "type": "State",
+      "pin_code_range": ["600001", "643253"]
+    },
+    {
+      "name": "Telangana",
+      "code": "TS",
+      "type": "State",
+      "pin_code_range": ["500001", "534999"]
+    },
+    {
+      "name": "Tripura",
+      "code": "TR",
+      "type": "State",
+      "pin_code_range": ["799001", "799289"]
+    },
+    {
+      "name": "Uttar Pradesh",
+      "code": "UP",
+      "type": "State",
+      "pin_code_range": ["201001", "285223"]
+    },
+    {
+      "name": "Uttarakhand",
+      "code": "UK",
+      "type": "State",
+      "pin_code_range": ["248001", "263676"]
+    },
+    {
+      "name": "West Bengal",
+      "code": "WB",
+      "type": "State",
+      "pin_code_range": ["700001", "743999"]
+    },
+    {
+      "name": "Andaman and Nicobar Islands",
+      "code": "AN",
+      "type": "Union Territory",
+      "pin_code_range": ["744101", "744302"]
+    },
+    {
+      "name": "Chandigarh",
+      "code": "CH",
+      "type": "Union Territory",
+      "pin_code_range": ["160001", "160036"]
+    },
+    {
+      "name": "Delhi",
+      "code": "DL",
+      "type": "Union Territory",
+      "pin_code_range": ["110001", "110098"]
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "code": "JK",
+      "type": "Union Territory",
+      "pin_code_range": ["180001", "194404"]
+    },
+    {
+      "name": "Ladakh",
+      "code": "LA",
+      "type": "Union Territory",
+      "pin_code_range": ["194101", "194404"]
+    },
+    {
+      "name": "Lakshadweep",
+      "code": "LD",
+      "type": "Union Territory",
+      "pin_code_range": ["682555", "682555"]
+    },
+    {
+      "name": "Puducherry",
+      "code": "PY",
+      "type": "Union Territory",
+      "pin_code_range": ["605001", "609609"]
+    },
+    {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "code": "DN",
+      "type": "Union Territory",
+      "pin_code_range": ["396210", "396240"]
+    }
+  ]
+}
